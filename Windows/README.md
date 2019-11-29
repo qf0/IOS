@@ -2,12 +2,4 @@
 
 Information regarding windows IOS development
 
-##About
-
-OSX
-
-XCode
-
-##VM
-
-##USB remote sharing
+TODO: VM USB Sharing
