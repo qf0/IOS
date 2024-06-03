@@ -25,6 +25,7 @@ Dump IPAs.
 ## Resources
 
 [IOSRE Repo](https://github.com/kpwn/iOSRE)
+
 [Corellium](https://www.corellium.com/) - Virtualized iOS devices that are jailbroken!!
 
 Useful papers, and information on IOS RE. P0 writeups etc.
