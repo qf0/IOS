@@ -1,7 +1,5 @@
 # General list of useful IOS R&D resources
 
-Foobar is a Python library for dealing with word pluralization.
-
 ## Tools
 
 [Clutch](https://github.com/KJCracks/Clutch
@@ -27,5 +25,6 @@ Dump IPAs.
 ## Resources
 
 [IOSRE Repo](https://github.com/kpwn/iOSRE)
+[Corellium](https://www.corellium.com/) - Virtualized iOS devices that are jailbroken!!
 
 Useful papers, and information on IOS RE. P0 writeups etc.
